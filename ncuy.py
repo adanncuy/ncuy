@@ -18,13 +18,13 @@ print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='Euz24XerOTSzgdFYNVF3.XAmvsdh7y1VwfOzAO7dtOW.mjKu62pjXJuqBlG5EoWNC6TGHSBIY+XSCatgj7F9GPo=')
+ki.login(token='Euz24XerOTSzgdFYNVF3.X1VwfOzAO7dtOW.mjKu62pjXJuqBlG5EoWNC6TGHSBIY+XSCatgj7F9GPo=')
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
-kk.login(token='EuUqGRrscN9nWVTbbENe.6lV8r5uMsjJX8da9htgrRG.w7gHsrqUnU+7L7sMubikb97Jjuqud2ahvXE0qijHcsA=')
+kk.login(token='EuUqGscN9nWVTbbENe.6lV8r5uMsjJX8da9htgrRG.w7gHsrqUnU+7L7sMubikb97Jjuqud2ahvXE0qijHcsA=')
 kk.loginResult()
 print "Kk-Login Success\n"
 
